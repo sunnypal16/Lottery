@@ -1,0 +1,12 @@
+.ticket{
+    border: 1px solid green;
+    border-radius: 14px;
+    
+}
+.body{
+    background-color: rgb(68, 114, 37);
+    border: 1px solid red;
+    border-radius: 24px;
+    width: 450px;
+    height: 350px;
+}
